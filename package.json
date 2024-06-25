@@ -1,0 +1,25 @@
+{
+  "name": "@asma000/student-management-system",
+  "version": "1.0.0",
+  "description": "\"# Student-Management-System\"",
+  "main": "main.js",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.14.8"
+  },
+  "dependencies": {
+    "@asma000/student-management-system": "^1.0.0",
+    "inquirer": "^9.2.23",
+    "undici-types": "^5.26.5"
+  }
+}
